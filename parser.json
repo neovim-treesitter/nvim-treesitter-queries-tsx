@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/tree-sitter/tree-sitter-typescript",
-  "semver": false,
   "parser_version": "75b3874edb2dc714fb1fd77a32013d0f8699989f",
   "location": "tsx",
-  "lang": "tsx"
+  "lang": "tsx",
+  "url": "https://github.com/tree-sitter/tree-sitter-typescript",
+  "semver": false
 }
